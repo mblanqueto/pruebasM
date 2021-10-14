@@ -4,4 +4,4 @@
 A partir de la siguiente imagen crear las clases que utilicen la herencia para 
 crear objetos de las clases 
 
-![diagramaFiguras](https://drive.google.com/file/d/1LxMCZA0_VeuBmd3pL-ZW6OAN0gviH8FD/view?usp=sharing)
+![diagramaFiguras](https://github.com/mblanqueto/pruebasM/blob/main/U2_practica3_figuras.PNG)
